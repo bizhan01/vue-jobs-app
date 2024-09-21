@@ -2,6 +2,9 @@
   import NavbarViwe from './components/NavbarViwe.vue';
   import Hero from './components/Hero.vue';
   import HomeCards from './components/HomeCards.vue';
+  import JobListings from './components/JobListings.vue';
+  import JobListing from './components/jobListing.vue'
+
 </script>
 
 <template>
@@ -9,5 +12,6 @@
     <NavbarViwe/>
     <Hero/>
     <HomeCards/>
+    <JobListings :limit="3"/>
   </div>
 </template>
