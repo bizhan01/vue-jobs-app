@@ -1,9 +1,9 @@
 <script setup>
-
+  import NavbarViwe from './components/NavbarViwe.vue';
 </script>
 
 <template>
   <div>
-    <h1>Vue Jobs website</h1>
+    <NavbarViwe/>
   </div>
 </template>
