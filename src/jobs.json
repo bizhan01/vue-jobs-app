@@ -195,34 +195,6 @@
         "contactEmail": "suduk@mailinator.com",
         "contactPhone": "+1 (936) 366-2027"
       }
-    },
-    {
-      "id": "2a60",
-      "title": "Shaeleigh Daugherty",
-      "type": "Part-Time",
-      "location": "Molestias commodo ma",
-      "description": "Dolores neque conseq",
-      "salary": "Over $200K",
-      "company": {
-        "name": "French and Rosales Plc",
-        "description": "Elit deserunt commo",
-        "contactEmail": "rukofume@mailinator.com",
-        "contactPhone": "+1 (453) 117-7375"
-      }
-    },
-    {
-      "id": "fffd",
-      "title": "Hop Frederick",
-      "type": "Full-Time",
-      "location": "Deserunt rerum in fu",
-      "description": "Quia repudiandae lau",
-      "salary": "$175 - 200K",
-      "company": {
-        "name": "Walsh and Sandoval Inc",
-        "description": "Quasi doloribus et m",
-        "contactEmail": "howezylu@mailinator.com",
-        "contactPhone": "+1 (281) 304-9785"
-      }
     }
   ]
 }
